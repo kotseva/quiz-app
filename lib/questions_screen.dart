@@ -29,12 +29,12 @@ class _QuestionsScreenState extends State<QuestionsScreen> {
             answerText: 'Answer 1',
             onTap: () {},
           ),
-                    const SizedBox(height: 30),
+          const SizedBox(height: 10),
           AnswerButton(
             answerText: 'Answer 2',
             onTap: () {},
           ),
-                    const SizedBox(height: 30),
+          const SizedBox(height: 10),
           AnswerButton(
             answerText: 'Answer 3',
             onTap: () {},
